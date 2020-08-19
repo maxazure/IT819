@@ -8,6 +8,8 @@ The current experiment code is divided into the following parts:
 1. Captured data
     a) In the folder /datasets/
 2. Data after cleaning (delete stop words)
+    /remove emoji, remove urls, remove space, ',', '@', etc. only keep the chars with A-Z.
+    
 3. Training data
     a) In the folder /datasets/training_data
 4. Use classifiers for sentiment analysis
