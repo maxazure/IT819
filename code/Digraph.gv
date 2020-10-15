@@ -1,0 +1,5 @@
+// The Test Table
+digraph {
+	A [label="Dot A"]
+	B [label="Dot B"]
+}
